@@ -1,6 +1,6 @@
 # Weather Analysis using Hadoop in Java
 
-![Weather Analysis](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHadoop_logo.svg&psig=AOvVaw1XyGI01AORo6_Wud2_mDa9&ust=1693748299696000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjlkqCGjIEDFQAAAAAdAAAAABAE)
+![Weather Analysis](https://github.com/iamchaitanya7/Weather_Analysis_Hadoop/blob/main/hadoop.png)
 
 ## Overview
 
